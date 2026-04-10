@@ -64,7 +64,7 @@ const Index = () => {
           </h1>
           
           <p className="text-xl md:text-3xl mb-8 text-foreground max-w-5xl mx-auto font-bold leading-relaxed">
-            "O método <span className="text-gradient">SECRETO</span> que médicos americanos usam para curar 
+            "O método que médicos americanos usam para curar 
             <span className="text-primary">artrite, artrose e dores crônicas</span> — em tempo recorde!"
             <br />
             <span className="text-destructive text-2xl">👨‍⚕️ AGORA DISPONÍVEL NO BRASIL!</span>
