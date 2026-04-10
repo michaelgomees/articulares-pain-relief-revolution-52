@@ -403,7 +403,7 @@ const Index = () => {
                   <Heart className="h-8 w-8 text-white" />
                 </div>
                 <h4 className="text-xl font-bold mb-3">100% NATURAL</h4>
-                <p>Fórmula desenvolvida com ingredientes orgânicos, sem químicos nocivos ou conservantes artificiais.</p>
+                <p>Método desenvolvido com ingredientes orgânicos, sem químicos nocivos ou conservantes artificiais.</p>
               </div>
               
               <div className="card-glow text-center">
@@ -419,7 +419,7 @@ const Index = () => {
                   <Award className="h-8 w-8 text-white" />
                 </div>
                 <h4 className="text-xl font-bold mb-3">CIENTIFICAMENTE APROVADO</h4>
-                <p>Fórmula validada por estudos clínicos e aprovada por órgãos regulamentadores internacionais.</p>
+                <p>Método validado por estudos clínicos e aprovado por órgãos regulamentadores internacionais.</p>
               </div>
             </div>
           </div>
