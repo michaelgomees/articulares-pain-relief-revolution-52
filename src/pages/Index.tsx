@@ -64,7 +64,7 @@ const Index = () => {
           </h1>
           
           <p className="text-xl md:text-3xl mb-8 text-foreground max-w-5xl mx-auto font-bold leading-relaxed">
-            "A fórmula <span className="text-gradient">SECRETA</span> que médicos americanos usam para curar 
+            "O método <span className="text-gradient">SECRETO</span> que médicos americanos usam para curar 
             <span className="text-primary">artrite, artrose e dores crônicas</span> — em tempo recorde!"
             <br />
             <span className="text-destructive text-2xl">👨‍⚕️ AGORA DISPONÍVEL NO BRASIL!</span>
@@ -281,7 +281,7 @@ const Index = () => {
                   className="mx-auto max-w-md w-full animate-float shadow-2xl rounded-xl"
                 />
                 <Badge className="mt-6 bg-primary text-primary-foreground text-lg px-6 py-2">
-                  🏆 FÓRMULA PATENTEADA
+                  🏆 MÉTODO PATENTEADO
                 </Badge>
               </div>
               
