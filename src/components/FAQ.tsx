@@ -10,7 +10,7 @@ const faqData = [
   {
     icon: <Heart className="h-5 w-5 text-primary" />,
     question: "O ARTICULARES realmente funciona para todas as dores articulares?",
-    answer: "Sim! O ARTICULARES foi desenvolvido para tratar diferentes tipos de dores articulares, incluindo joelhos, ombros, coluna, cotovelos, mãos, quadris e tornozelos. Nossa fórmula com 95% de curcumina age diretamente na causa da inflamação, proporcionando alívio efetivo em até 14 dias."
+    answer: "Sim! O ARTICULARES foi desenvolvido para tratar diferentes tipos de dores articulares, incluindo joelhos, ombros, coluna, cotovelos, mãos, quadris e tornozelos. Nosso método com 95% de curcumina age diretamente na causa da inflamação, proporcionando alívio efetivo em até 14 dias."
   },
   {
     icon: <Clock className="h-5 w-5 text-primary" />,
@@ -25,7 +25,7 @@ const faqData = [
   {
     icon: <Shield className="h-5 w-5 text-primary" />,
     question: "Tem efeitos colaterais ou contraindicações?",
-    answer: "O ARTICULARES é 100% natural e não possui efeitos colaterais conhecidos. Porém, gestantes, lactantes e pessoas com alergia a algum componente da fórmula devem consultar um médico antes do uso. É sempre recomendável consultar seu médico antes de iniciar qualquer suplementação."
+    answer: "O ARTICULARES é 100% natural e não possui efeitos colaterais conhecidos. Porém, gestantes, lactantes e pessoas com alergia a algum componente do método devem consultar um médico antes do uso. É sempre recomendável consultar seu médico antes de iniciar qualquer suplementação."
   },
   {
     icon: <CreditCard className="h-5 w-5 text-primary" />,
